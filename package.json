@@ -12,10 +12,12 @@
   "devDependencies": {
     "@types/express": "^5.0.1",
     "@types/node": "^22.13.14",
+    "globals": "^16.0.0",
     "ts-node": "^10.9.2",
     "typescript": "^5.8.2"
   },
   "dependencies": {
-    "dotenv": "^16.4.7"
+    "dotenv": "^16.4.7",
+    "prettier": "^3.5.3"
   }
 }
